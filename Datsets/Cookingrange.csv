@@ -1,0 +1,401 @@
+Sales,CompPrice,Income,Promotion,Population,Price,Display,Age,Education,Urban,Region
+95,1380,73,11,276,1200,Back,42,17,Urban,North
+112,1110,48,16,260,830,Front ,65,10,Urban,North
+101,1130,35,10,269,800,Middle,59,12,Urban,North
+74,1170,100,4,466,970,Middle,55,14,Urban,North
+42,1410,64,3,340,1280,Back,38,13,Urban,South
+108,1240,113,13,501,720,Back,78,16,Rural,North
+66,1150,105,0,45,1080,Middle,71,15,Urban,South
+119,1360,81,15,425,1200,Front ,67,10,Urban,North
+65,1320,110,0,108,1240,Middle,76,10,Rural,South
+47,1320,113,0,131,1240,Middle,76,17,Rural,North
+90,1210,78,9,150,1000,Back,26,10,Rural,North
+120,1170,94,4,503,940,Front ,50,13,Urban,North
+40,1220,35,2,393,1360,Middle,62,18,Urban,South
+110,1150,28,11,29,860,Front ,53,18,Urban,North
+112,1070,117,11,148,1180,Front ,52,18,Urban,North
+87,1490,95,5,400,1440,Middle,76,18,Rural,South
+76,1180,32,0,284,1100,Front ,63,13,Urban,South
+123,1470,74,13,251,1310,Front ,52,10,Urban,North
+139,1100,110,0,408,680,Front ,46,17,Rural,North
+87,1290,76,16,58,1210,Middle,69,12,Urban,North
+64,1250,90,2,367,1310,Middle,35,18,Urban,North
+121,1340,29,12,239,1090,Front ,62,18,Rural,North
+51,1280,46,6,497,1380,Middle,42,13,Urban,South
+59,1210,31,0,292,1090,Middle,79,10,Urban,South
+101,1450,119,16,294,1130,Back,42,12,Urban,North
+149,1390,32,0,176,820,Front ,54,11,Rural,South
+83,1070,115,11,496,1310,Front ,50,11,Rural,North
+53,980,118,0,19,1070,Middle,64,17,Urban,South
+30,1030,74,0,359,970,Back,55,11,Urban,North
+78,1040,99,15,226,1020,Back,58,17,Urban,North
+136,1250,94,0,447,890,Front ,30,12,Urban,South
+83,1360,58,16,241,1310,Middle,44,18,Urban,North
+62,1070,32,12,236,1370,Front ,64,10,Rural,North
+88,1140,38,13,317,1280,Front ,50,16,Urban,North
+27,1150,54,0,406,1280,Middle,42,17,Urban,North
+111,1310,84,11,29,960,Middle,44,17,Rural,North
+89,1220,76,0,270,1000,Front ,60,18,Rural,South
+50,1210,41,5,412,1100,Middle,54,10,Urban,North
+66,1090,73,0,454,1020,Middle,65,15,Urban,South
+32,1300,60,0,144,1380,Back,38,10,Rural,South
+21,1190,98,0,18,1260,Back,73,17,Rural,South
+80,1570,53,0,403,1240,Back,58,16,Urban,South
+104,770,69,0,25,240,Middle,50,18,Urban,South
+41,1230,42,11,16,1340,Middle,59,13,Urban,North
+42,850,79,6,325,950,Middle,69,13,Urban,North
+46,1410,63,0,168,1350,Back,44,12,Urban,North
+124,1270,90,14,16,700,Middle,48,15,Rural,North
+44,1260,98,0,173,1080,Back,55,16,Urban,South
+39,1160,52,0,349,980,Back,69,18,Urban,South
+106,1570,93,0,51,1490,Front ,32,17,Urban,South
+14,990,32,18,341,1080,Back,80,16,Urban,North
+44,1210,90,0,150,1080,Back,75,16,Urban,South
+79,1530,40,3,112,1290,Back,39,18,Urban,North
+69,1090,64,13,39,1190,Middle,61,17,Urban,North
+49,1340,103,13,25,1440,Middle,76,17,Rural,North
+69,1430,81,5,60,1540,Middle,61,18,Urban,North
+119,1330,82,0,54,840,Middle,50,17,Urban,South
+9,930,91,0,22,1170,Back,75,11,Urban,South
+54,1030,93,15,188,1030,Back,74,16,Urban,North
+52,1180,71,4,148,1140,Middle,80,13,Urban,South
+83,1220,102,19,469,1230,Back,29,13,Urban,North
+73,1050,32,0,358,1070,Middle,26,13,Rural,South
+18,1390,45,0,146,1330,Back,77,17,Urban,North
+85,1190,88,10,170,1010,Middle,61,13,Urban,North
+78,1000,67,12,184,1040,Middle,32,16,Rural,North
+49,1220,26,0,197,1280,Middle,55,13,Rural,South
+89,1270,92,0,508,910,Middle,56,18,Urban,South
+90,1260,61,14,152,1150,Middle,47,16,Urban,North
+134,1490,69,20,366,1340,Front ,60,13,Urban,North
+80,1270,59,0,339,990,Middle,65,12,Urban,South
+95,890,81,15,237,990,Front ,74,12,Urban,North
+65,1480,51,16,148,1500,Middle,58,17,Rural,North
+55,1150,45,0,432,1160,Middle,25,15,Urban,South
+126,1180,90,10,54,1040,Front ,31,11,Rural,North
+62,1500,68,5,125,1360,Middle,64,13,Rural,North
+86,880,111,23,480,920,Back,36,16,Rural,North
+106,1020,87,10,346,700,Middle,64,15,Urban,North
+77,1180,71,12,44,890,Middle,67,18,Rural,North
+44,1340,48,1,139,1450,Middle,65,12,Urban,North
+91,1340,67,0,286,900,Back,41,13,Urban,South
+80,1130,100,16,353,790,Back,68,11,Urban,North
+75,1160,72,0,237,1280,Front ,70,13,Urban,South
+116,1510,83,4,325,1390,Front ,28,17,Urban,North
+44,1090,36,7,468,940,Back,56,11,Urban,North
+22,1110,25,0,52,1210,Back,43,18,Rural,South
+85,1250,103,0,304,1120,Middle,49,13,Rural,South
+87,1500,84,9,432,1340,Middle,64,15,Urban,South
+117,1310,67,7,272,1260,Front ,54,16,Rural,North
+66,1170,42,7,144,1110,Middle,62,10,Urban,North
+80,1280,66,3,493,1190,Middle,45,16,Rural,South
+53,1150,22,0,491,1030,Middle,64,11,Rural,South
+48,970,46,11,267,1070,Middle,80,15,Urban,North
+45,1140,113,0,97,1250,Middle,29,12,Urban,South
+89,1450,30,0,67,1040,Middle,55,17,Urban,South
+84,1150,97,5,134,840,Back,55,11,Urban,North
+56,1340,25,10,237,1480,Middle,59,13,Urban,North
+95,1470,42,10,407,1320,Front ,73,16,Rural,North
+75,1610,82,5,287,1290,Back,33,16,Urban,North
+125,1220,77,24,382,1270,Front ,36,16,Rural,North
+49,1210,47,3,220,1070,Back,56,16,Rural,North
+41,1130,69,11,94,1060,Middle,76,12,Rural,North
+62,1280,93,0,89,1180,Middle,34,18,Urban,South
+53,1130,22,0,57,970,Middle,65,16,Rural,South
+51,1230,91,0,334,960,Back,78,17,Urban,North
+46,1210,96,0,472,1380,Middle,51,12,Urban,South
+56,1040,100,8,398,970,Middle,61,11,Urban,North
+2,1020,33,0,217,1390,Middle,70,18,Rural,South
+86,1340,107,0,104,1080,Middle,60,12,Urban,South
+35,1070,79,2,488,1030,Back,65,16,Urban,South
+90,1150,65,0,217,900,Middle,60,17,Rural,South
+90,1280,62,7,125,1160,Middle,43,14,Urban,North
+66,1320,118,12,272,1510,Middle,43,14,Urban,North
+67,1160,99,5,298,1250,Front ,62,12,Urban,North
+60,1310,29,11,335,1270,Back,33,12,Urban,North
+93,1220,87,9,17,1060,Middle,65,13,Urban,North
+85,1390,35,0,95,1290,Middle,42,13,Urban,South
+51,1350,75,0,202,1280,Middle,80,10,Rural,South
+88,1450,53,0,507,1190,Middle,41,12,Urban,South
+76,1120,88,2,243,990,Middle,62,11,Urban,North
+74,1300,94,8,137,1280,Middle,64,12,Urban,North
+69,1280,105,11,249,1310,Middle,63,13,Urban,North
+117,1250,89,10,380,870,Back,28,10,Urban,North
+69,1190,100,5,45,1080,Middle,75,10,Urban,North
+82,1270,103,0,125,1550,Front ,29,15,Rural,North
+89,1310,113,0,181,1200,Front ,63,14,Urban,South
+93,890,78,0,181,490,Middle,43,15,Rural,South
+113,1530,68,2,60,1330,Front ,59,16,Urban,North
+65,1250,48,3,192,1160,Middle,51,14,Urban,North
+50,1330,100,3,350,1260,Back,55,13,Urban,North
+45,1430,120,7,279,1470,Back,40,10,Rural,North
+84,940,84,13,497,770,Middle,51,12,Urban,North
+65,1080,69,3,208,940,Middle,77,16,Urban,South
+95,1250,87,9,232,1360,Front ,72,10,Urban,North
+76,1320,98,2,265,970,Back,62,12,Urban,North
+37,1320,31,0,327,1310,Middle,76,16,Urban,South
+64,960,94,14,384,1200,Middle,36,18,Rural,North
+52,1310,75,0,10,1200,Back,31,18,Rural,South
+65,1280,42,0,436,1180,Middle,80,11,Urban,South
+103,1250,103,12,371,1090,Middle,44,10,Urban,North
+123,1460,62,10,310,940,Middle,30,13,Rural,North
+60,1330,60,10,277,1290,Middle,45,18,Urban,North
+65,1400,42,0,331,1310,Back,28,15,Urban,South
+74,1240,84,0,300,1040,Middle,77,15,Urban,South
+5,1220,88,7,36,1590,Back,28,17,Urban,North
+91,1320,68,0,264,1230,Front ,34,11,Rural,South
+88,1440,63,11,27,1170,Middle,47,17,Urban,North
+39,1140,83,0,412,1310,Back,39,14,Urban,South
+105,1400,54,9,402,1190,Front ,41,16,Rural,North
+76,1100,119,0,384,970,Middle,72,14,Rural,North
+115,1210,120,13,140,870,Middle,56,11,Urban,North
+105,1220,84,8,176,1140,Front ,57,10,Rural,North
+108,1110,58,17,407,1030,Front ,75,17,Rural,North
+76,1280,78,0,341,1280,Front ,45,13,Rural,South
+59,1500,36,7,488,1500,Middle,25,17,Rural,North
+69,1290,69,10,289,1100,Middle,50,16,Rural,North
+77,980,72,0,59,690,Middle,65,16,Urban,South
+75,1460,34,0,220,1570,Front ,51,16,Urban,South
+102,1210,58,8,249,900,Middle,48,13,Rural,North
+125,1420,90,1,189,1120,Front ,39,10,Rural,North
+93,1190,60,0,372,700,Back,30,18,Rural,South
+47,1110,28,0,486,1110,Middle,29,12,Rural,South
+29,1430,21,5,81,1600,Middle,67,12,Rural,North
+36,1220,74,0,424,1490,Middle,51,13,Urban,South
+57,1300,64,0,40,1060,Back,39,17,Rural,South
+82,1480,64,0,58,1410,Middle,27,13,Rural,North
+4,1470,58,7,100,1910,Back,27,15,Urban,North
+67,1190,67,17,151,1370,Middle,55,11,Urban,North
+67,1060,73,0,216,930,Middle,60,13,Urban,South
+73,1290,89,0,425,1170,Middle,45,10,Urban,South
+115,1040,41,15,492,770,Front ,73,18,Urban,North
+80,1280,39,12,356,1180,Middle,71,10,Urban,North
+125,930,106,12,416,550,Middle,75,15,Urban,North
+90,1040,102,13,123,1100,Front ,35,16,Urban,North
+64,1350,91,5,207,1280,Middle,66,18,Urban,North
+0,1390,24,0,358,1850,Middle,79,15,Rural,South
+75,1150,89,0,38,1220,Middle,25,12,Urban,South
+56,1380,107,9,480,1540,Middle,47,11,Rural,North
+105,1380,72,0,148,940,Middle,27,17,Urban,North
+107,1040,71,14,89,810,Middle,25,14,Rural,North
+78,1440,25,3,70,1160,Middle,77,18,Urban,North
+49,1370,112,15,434,1490,Back,66,13,Urban,North
+74,1210,83,0,79,910,Middle,68,11,Urban,South
+47,1370,60,4,230,1400,Back,25,13,Urban,South
+53,1180,74,6,426,1020,Middle,80,18,Urban,North
+100,1320,33,7,35,970,Middle,60,11,Rural,North
+101,1300,100,11,449,1070,Middle,64,10,Urban,North
+87,1200,51,0,93,860,Middle,46,17,Rural,South
+60,1170,32,0,142,960,Back,62,17,Urban,South
+81,1160,37,0,426,900,Middle,76,15,Urban,South
+121,1180,117,18,509,1040,Middle,26,15,Rural,North
+88,1300,37,13,297,1010,Middle,37,13,Rural,North
+67,1560,42,13,170,1730,Front ,74,14,Urban,North
+76,1080,26,0,408,930,Middle,56,14,Rural,South
+133,1390,70,7,71,960,Front ,61,10,Urban,North
+72,1120,98,18,481,1280,Middle,45,11,Urban,North
+42,1170,93,4,420,1120,Back,66,11,Urban,North
+41,1300,28,6,410,1330,Back,72,16,Urban,North
+25,1240,61,0,333,1380,Middle,76,16,Urban,South
+36,1120,80,5,500,1280,Middle,69,10,Urban,North
+64,1220,88,5,335,1260,Middle,64,14,Urban,North
+56,1440,92,0,349,1460,Middle,62,12,Rural,South
+59,1380,83,0,139,1340,Middle,54,18,Urban,South
+41,1210,78,4,413,1300,Back,46,10,Rural,North
+21,1310,82,0,132,1570,Back,25,14,Urban,South
+87,1550,80,0,237,1240,Middle,37,14,Urban,South
+57,1130,22,1,317,1320,Middle,28,12,Urban,South
+50,1620,67,0,27,1600,Middle,77,17,Urban,North
+82,1110,105,0,466,970,Back,61,10,Rural,South
+78,860,54,0,497,640,Back,33,12,Urban,South
+30,980,21,11,326,900,Back,76,11,Rural,North
+44,1250,41,2,357,1230,Back,47,14,Rural,North
+94,1170,118,14,445,1200,Middle,32,15,Urban,North
+120,1450,69,19,501,1050,Middle,45,11,Urban,North
+82,1490,84,5,220,1390,Middle,33,10,Urban,North
+48,1150,115,3,48,1070,Middle,73,18,Urban,North
+23,1160,83,15,170,1440,Back,71,11,Urban,North
+57,1410,33,0,243,1440,Middle,34,17,Urban,South
+43,1060,44,0,481,1110,Middle,70,14,Rural,South
+97,1380,61,12,156,1200,Middle,25,14,Urban,North
+106,1160,79,19,359,1160,Front ,58,17,Urban,North
+106,1310,120,15,262,1240,Middle,30,10,Urban,North
+64,1240,44,0,125,1070,Middle,80,11,Urban,South
+75,1360,119,6,178,1450,Middle,35,13,Urban,North
+35,1100,45,9,276,1250,Middle,62,14,Urban,North
+41,1340,82,0,464,1410,Middle,48,13,Rural,South
+67,1070,25,0,412,820,Back,36,14,Urban,South
+78,1190,33,0,245,1220,Front ,56,14,Urban,South
+87,1130,64,10,68,1010,Middle,57,16,Urban,North
+54,1490,73,13,381,1630,Back,26,11,Rural,North
+112,980,104,0,404,720,Middle,27,18,Rural,South
+52,1150,60,0,119,1140,Back,38,14,Rural,South
+81,1320,69,0,123,1220,Middle,27,11,Rural,South
+131,1370,80,10,24,1050,Front ,61,15,Urban,North
+87,1230,76,18,218,1200,Middle,29,14,Rural,North
+94,1150,62,11,289,1290,Front ,56,16,Rural,North
+55,1260,32,8,95,1320,Middle,50,17,Urban,North
+93,1410,34,16,361,1080,Middle,69,10,Urban,North
+96,1510,28,8,499,1350,Middle,48,10,Urban,North
+74,1210,24,0,200,1330,Front ,73,13,Urban,South
+39,1230,105,0,149,1180,Back,62,16,Urban,North
+103,1590,80,0,362,1210,Middle,26,18,Urban,South
+120,1360,63,0,160,940,Middle,38,12,Urban,South
+47,1240,46,0,199,1350,Middle,52,14,Rural,South
+78,1240,25,13,87,1100,Middle,57,10,Urban,North
+88,1300,30,0,391,1000,Middle,26,18,Urban,South
+100,1140,43,0,199,880,Front ,57,10,Rural,North
+69,1200,56,20,266,900,Back,78,18,Urban,North
+50,1230,114,0,298,1510,Back,34,16,Urban,South
+54,1110,52,0,12,1010,Middle,61,11,Urban,North
+51,1250,67,0,86,1170,Back,65,11,Urban,South
+92,1370,105,10,435,1560,Front ,72,14,Urban,North
+37,1390,111,5,310,1320,Back,62,13,Urban,North
+83,1330,97,0,70,1170,Middle,32,16,Urban,South
+56,1240,24,5,288,1220,Middle,57,12,Rural,North
+96,1080,104,23,353,1290,Front ,37,17,Urban,North
+77,1230,81,8,198,810,Back,80,15,Urban,North
+42,1470,40,0,277,1440,Middle,73,10,Urban,South
+87,1250,62,14,477,1120,Middle,80,13,Urban,North
+35,1080,38,0,251,810,Back,72,14,Rural,South
+51,1230,36,10,467,1000,Back,74,11,Rural,North
+77,1290,117,8,400,1010,Back,36,10,Urban,North
+57,1210,42,4,188,1180,Middle,54,15,Urban,North
+64,1200,77,15,86,1320,Middle,48,18,Urban,North
+78,1160,26,6,434,1150,Middle,25,17,Urban,North
+70,1280,29,5,324,1590,Front ,31,15,Urban,North
+53,1300,35,10,402,1290,Back,39,17,Urban,North
+91,1280,93,12,343,1120,Front ,73,17,Rural,North
+58,1340,82,7,473,1120,Back,51,12,Rural,North
+65,1230,57,0,66,1050,Middle,39,11,Urban,South
+50,1590,69,0,438,1660,Middle,46,17,Urban,South
+120,1190,26,0,284,890,Front ,26,10,Urban,South
+46,1110,56,0,504,1100,Middle,62,16,Urban,South
+130,1130,33,0,14,630,Front ,38,12,Urban,South
+100,1160,106,8,244,860,Middle,58,12,Urban,North
+72,1350,93,2,67,1190,Middle,34,11,Urban,North
+67,1070,119,11,210,1320,Middle,53,11,Urban,North
+69,1350,69,14,296,1300,Middle,73,15,Urban,North
+78,1360,48,12,326,1250,Middle,36,16,Urban,North
+72,1140,113,2,129,1510,Front ,40,15,Rural,North
+34,1410,57,13,376,1580,Middle,64,18,Urban,North
+29,1210,86,10,496,1450,Back,51,10,Urban,North
+112,1220,69,7,303,1050,Front ,45,16,Rural,North
+77,1500,96,0,80,1540,Front ,61,11,Urban,South
+54,1350,110,0,112,1170,Middle,80,16,Rural,South
+70,1060,46,11,414,960,Back,79,17,Rural,South
+76,1460,26,11,261,1310,Middle,39,10,Urban,North
+75,1170,118,11,429,1130,Middle,67,18,Rural,North
+69,950,44,4,208,720,Back,44,17,Urban,North
+70,1160,40,0,74,970,Middle,76,15,Rural,South
+88,1430,77,25,448,1560,Middle,43,17,Urban,North
+95,1070,111,14,400,1030,Middle,41,11,Rural,North
+66,1180,70,0,106,890,Back,39,17,Urban,South
+118,1130,66,16,322,740,Front ,76,15,Urban,North
+113,1230,84,0,74,890,Front ,59,10,Urban,South
+127,1480,76,3,126,990,Front ,60,11,Urban,North
+42,1180,35,14,502,1370,Middle,79,10,Rural,North
+82,1270,44,13,160,1230,Front ,63,18,Urban,North
+31,1180,83,13,276,1040,Back,75,10,Urban,North
+110,1480,63,0,312,1300,Front ,63,15,Urban,South
+94,1350,40,17,497,960,Middle,54,17,Rural,North
+86,1160,78,1,158,990,Middle,45,11,Urban,North
+74,990,93,0,198,870,Middle,57,16,Urban,North
+53,1080,77,13,388,1100,Back,74,14,Urban,North
+100,1330,52,16,290,990,Middle,43,11,Urban,North
+119,1230,98,12,408,1340,Front ,29,10,Urban,North
+80,1150,29,26,394,1320,Middle,33,13,Urban,North
+48,1310,32,1,85,1330,Middle,48,12,Urban,North
+59,1380,92,0,13,1200,Back,61,12,Urban,South
+92,1260,80,19,436,1260,Middle,52,10,Urban,North
+112,1310,111,13,33,800,Back,68,18,Urban,North
+95,1750,65,29,419,1660,Middle,53,12,Urban,North
+62,1460,68,12,328,1320,Back,51,14,Urban,North
+68,1370,117,5,337,1350,Back,38,10,Urban,North
+93,1030,81,3,491,540,Middle,66,13,Urban,South
+77,1330,33,10,333,1290,Front ,71,14,Urban,North
+64,1310,21,8,220,1710,Front ,29,14,Urban,North
+156,1220,36,5,369,720,Front ,35,10,Urban,North
+64,1420,30,0,472,1360,Front ,80,15,Rural,South
+101,1160,72,10,456,1300,Front ,41,14,Rural,North
+70,1270,45,19,459,1290,Middle,57,11,Rural,North
+59,1360,70,12,171,1520,Middle,44,18,Urban,North
+75,1230,39,5,499,980,Middle,34,15,Urban,South
+92,1400,50,10,300,1390,Front ,60,15,Urban,North
+104,1070,105,18,428,1030,Middle,34,12,Urban,North
+27,1360,65,4,133,1500,Back,53,13,Urban,North
+117,1440,69,11,131,1040,Middle,47,11,Urban,North
+47,1330,30,0,152,1220,Middle,53,17,Urban,South
+62,1120,38,17,316,1040,Middle,80,16,Urban,North
+32,1170,66,1,65,1110,Back,55,11,Urban,North
+113,1000,54,9,433,890,Front ,45,12,Urban,North
+50,1220,59,0,501,1120,Back,32,14,Rural,South
+101,1350,63,15,213,1340,Middle,32,10,Urban,North
+57,1060,33,20,354,1040,Middle,61,12,Urban,North
+59,1360,60,7,303,1470,Middle,41,10,Urban,North
+76,930,117,9,489,830,Back,42,13,Urban,North
+62,1200,70,15,464,1100,Middle,72,15,Urban,North
+52,1380,35,6,60,1430,Back,28,18,Urban,South
+86,1300,38,0,283,1020,Middle,80,15,Urban,South
+60,1120,24,0,164,1010,Middle,45,11,Urban,South
+115,1340,44,4,219,1260,Front ,44,15,Urban,North
+75,1400,29,0,105,910,Back,43,16,Urban,South
+74,980,120,0,268,930,Middle,72,10,Rural,South
+78,1370,102,13,422,1180,Middle,71,10,Rural,North
+60,1170,42,10,371,1210,Back,26,14,Urban,North
+84,1380,80,0,108,1260,Front ,70,13,Rural,North
+48,1210,68,0,279,1490,Front ,79,12,Urban,South
+90,1320,107,0,144,1250,Middle,33,13,Rural,South
+69,960,39,0,161,1120,Front ,27,14,Rural,South
+126,1320,102,20,459,1070,Front ,49,11,Urban,North
+93,1340,27,18,467,960,Middle,49,14,Rural,North
+86,1110,101,17,266,910,Middle,63,17,Rural,North
+104,1240,115,16,458,1050,Middle,62,16,Rural,North
+134,1330,103,14,288,1220,Front ,61,17,Urban,North
+95,1070,67,12,430,920,Middle,35,12,Rural,North
+53,1330,31,1,80,1450,Middle,42,18,Urban,North
+70,1300,100,0,306,1460,Front ,42,11,Urban,South
+36,1420,109,0,111,1640,Front ,72,12,Urban,South
+134,1030,73,3,276,720,Middle,34,15,Urban,North
+42,1230,96,10,71,1180,Back,69,11,Urban,North
+31,1300,62,11,396,1300,Back,66,14,Urban,North
+88,1180,86,7,265,1140,Front ,52,15,Rural,North
+87,1310,25,10,183,1040,Middle,56,15,Rural,North
+53,1310,55,0,26,1100,Back,79,12,Urban,North
+103,1110,75,1,377,1080,Front ,25,12,Urban,South
+105,1220,21,16,488,1310,Front ,30,14,Urban,North
+65,1540,30,0,122,1620,Middle,57,17,Rural,South
+60,1240,56,11,447,1340,Middle,53,12,Rural,North
+144,950,106,0,256,530,Front ,52,17,Urban,South
+107,1090,22,10,348,790,Front ,74,14,Rural,North
+103,1350,100,22,463,1220,Middle,36,14,Urban,North
+77,1260,41,22,403,1190,Back,42,12,Urban,North
+91,1520,81,0,191,1260,Middle,54,16,Urban,South
+78,1210,50,0,508,980,Middle,65,11,Rural,South
+56,1370,71,0,402,1160,Middle,78,17,Urban,South
+94,1310,47,7,90,1180,Middle,47,12,Urban,North
+79,1320,46,4,206,1240,Middle,73,11,Urban,South
+163,1410,60,19,319,920,Front ,44,11,Urban,North
+68,1320,61,0,263,1250,Middle,41,12,Rural,South
+61,1330,88,3,105,1190,Middle,79,12,Urban,North
+58,1250,111,0,404,1070,Back,54,15,Urban,South
+96,1060,64,10,17,890,Middle,68,17,Urban,North
+39,1240,65,21,496,1510,Back,77,13,Urban,North
+50,1210,28,19,315,1210,Middle,66,14,Urban,North
+94,980,117,0,76,680,Middle,63,10,Urban,South
+129,1230,37,15,348,1120,Front ,28,12,Urban,North
+59,1310,73,13,455,1320,Middle,62,17,Urban,North
+53,1520,116,0,170,1600,Middle,39,16,Urban,South
+87,1420,73,14,238,1150,Middle,73,14,Rural,North
+81,1350,89,11,245,780,Back,79,16,Urban,North
+84,1280,42,8,328,1070,Middle,35,12,Urban,North
+55,1080,75,9,61,1110,Middle,67,12,Urban,North
+61,1530,63,0,49,1240,Back,56,16,Urban,South
+45,1290,42,13,315,1300,Back,34,13,Urban,North
+56,1090,51,10,26,1200,Middle,30,17,Rural,North
+54,1300,58,19,366,1390,Back,33,16,Urban,North
+126,1380,108,17,203,1280,Front ,33,14,Urban,North
+61,1390,23,3,37,1200,Middle,55,11,Rural,North
+74,1620,26,12,368,1590,Middle,40,18,Urban,North
+59,1000,79,7,284,950,Back,50,12,Urban,North
+97,1340,37,0,27,1200,Front ,49,16,Urban,North
